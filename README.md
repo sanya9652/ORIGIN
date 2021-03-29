@@ -1,2 +1,1 @@
-# ORIGIN
-https://habr.com/ru/post/174467/
+It's readme in pull-requests branch
